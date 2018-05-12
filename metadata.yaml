@@ -1,0 +1,34 @@
+_repo: Partie-carr-e_34285
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gautier, Théophile
+    aliases:
+    - Gautier, Pierre-Jules-Théophile
+    - Gautier, Theophile
+    - Gaultier, Theophile
+    birthdate: 1811
+    deathdate: 1872
+    gutenberg_agent_id: '5450'
+    url: http://www.gutenberg.org/2009/agents/5450
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Th%C3%A9ophile_Gautier
+    - http://en.wikipedia.org/wiki/Théophile_Gautier
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2010-11-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34285'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French fiction'
+- !lcc 'PQ'
+title: Partie carrée
+url: http://www.gutenberg.org/ebooks/34285
